@@ -1,0 +1,23 @@
+{
+  "expenses": [],
+  "investments": [],
+  "renovations": [],
+  "mortgages": [],
+  "budgets": {
+    "food": 500,
+    "transport": 200,
+    "shopping": 300,
+    "entertainment": 150,
+    "utilities": 200,
+    "health": 100,
+    "other": 100
+  },
+  "settings": {
+    "darkMode": false,
+    "password": "",
+    "currency": "$",
+    "renovationBudget": 50000
+  },
+  "savingsBalance": 0,
+  "lastUpdated": "2026-03-27T00:25:00.000Z"
+}
