@@ -1,5 +1,22 @@
 {
-  "expenses": [],
+  "expenses": [
+    {
+      "id": "1774543076153",
+      "amount": 50,
+      "category": "food",
+      "date": "2026-03-26",
+      "note": "Bought groceries for .50",
+      "createdAt": 1774543076153
+    },
+    {
+      "id": "1774542916182",
+      "amount": 15,
+      "category": "food",
+      "date": "2026-03-26",
+      "note": "Spent 15 dollars on lunch at McDonald's",
+      "createdAt": 1774542916182
+    }
+  ],
   "investments": [],
   "renovations": [],
   "mortgages": [],
@@ -19,5 +36,5 @@
     "renovationBudget": 50000
   },
   "savingsBalance": 0,
-  "lastUpdated": "2026-03-27T00:25:00.000Z"
+  "lastUpdated": "2026-03-26T16:37:56.153Z"
 }
