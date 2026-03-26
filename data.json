@@ -1,6 +1,14 @@
 {
   "expenses": [
     {
+      "id": "1774543299079",
+      "amount": 30,
+      "category": "transport",
+      "date": "2026-03-26",
+      "note": "Paid $30 for Uber ride to work",
+      "createdAt": 1774543299079
+    },
+    {
       "id": "1774543076153",
       "amount": 50,
       "category": "food",
@@ -36,5 +44,5 @@
     "renovationBudget": 50000
   },
   "savingsBalance": 0,
-  "lastUpdated": "2026-03-26T16:37:56.153Z"
+  "lastUpdated": "2026-03-26T16:41:39.079Z"
 }
